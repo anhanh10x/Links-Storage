@@ -1,0 +1,12 @@
+D:\Studying App\Dto\bin\Release\net6.0\Dto.deps.json
+D:\Studying App\Dto\bin\Release\net6.0\Dto.dll
+D:\Studying App\Dto\bin\Release\net6.0\Dto.pdb
+D:\Studying App\Dto\obj\Release\net6.0\Dto.csproj.AssemblyReference.cache
+D:\Studying App\Dto\obj\Release\net6.0\Dto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studying App\Dto\obj\Release\net6.0\Dto.AssemblyInfoInputs.cache
+D:\Studying App\Dto\obj\Release\net6.0\Dto.AssemblyInfo.cs
+D:\Studying App\Dto\obj\Release\net6.0\Dto.csproj.CoreCompileInputs.cache
+D:\Studying App\Dto\obj\Release\net6.0\Dto.dll
+D:\Studying App\Dto\obj\Release\net6.0\refint\Dto.dll
+D:\Studying App\Dto\obj\Release\net6.0\Dto.pdb
+D:\Studying App\Dto\obj\Release\net6.0\ref\Dto.dll

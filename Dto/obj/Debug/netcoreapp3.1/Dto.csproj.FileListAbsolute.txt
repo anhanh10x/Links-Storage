@@ -1,0 +1,5 @@
+D:\Studying App\Dto\obj\Debug\netcoreapp3.1\Dto.csproj.AssemblyReference.cache
+D:\Studying App\Dto\obj\Debug\netcoreapp3.1\Dto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studying App\Dto\obj\Debug\netcoreapp3.1\Dto.AssemblyInfoInputs.cache
+D:\Studying App\Dto\obj\Debug\netcoreapp3.1\Dto.AssemblyInfo.cs
+D:\Studying App\Dto\obj\Debug\netcoreapp3.1\Dto.csproj.CoreCompileInputs.cache
