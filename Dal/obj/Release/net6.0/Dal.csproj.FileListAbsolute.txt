@@ -1,0 +1,15 @@
+D:\Studying App\Dal\bin\Release\net6.0\Dal.deps.json
+D:\Studying App\Dal\bin\Release\net6.0\Dal.dll
+D:\Studying App\Dal\bin\Release\net6.0\Dal.pdb
+D:\Studying App\Dal\bin\Release\net6.0\Dto.dll
+D:\Studying App\Dal\bin\Release\net6.0\Dto.pdb
+D:\Studying App\Dal\obj\Release\net6.0\Dal.csproj.AssemblyReference.cache
+D:\Studying App\Dal\obj\Release\net6.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studying App\Dal\obj\Release\net6.0\Dal.AssemblyInfoInputs.cache
+D:\Studying App\Dal\obj\Release\net6.0\Dal.AssemblyInfo.cs
+D:\Studying App\Dal\obj\Release\net6.0\Dal.csproj.CoreCompileInputs.cache
+D:\Studying App\Dal\obj\Release\net6.0\Dal.csproj.CopyComplete
+D:\Studying App\Dal\obj\Release\net6.0\Dal.dll
+D:\Studying App\Dal\obj\Release\net6.0\refint\Dal.dll
+D:\Studying App\Dal\obj\Release\net6.0\Dal.pdb
+D:\Studying App\Dal\obj\Release\net6.0\ref\Dal.dll
