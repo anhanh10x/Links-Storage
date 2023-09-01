@@ -1,0 +1,17 @@
+D:\Studying App\Bll\bin\Release\net6.0\Bll.deps.json
+D:\Studying App\Bll\bin\Release\net6.0\Bll.dll
+D:\Studying App\Bll\bin\Release\net6.0\Bll.pdb
+D:\Studying App\Bll\bin\Release\net6.0\Dal.dll
+D:\Studying App\Bll\bin\Release\net6.0\Dto.dll
+D:\Studying App\Bll\bin\Release\net6.0\Dal.pdb
+D:\Studying App\Bll\bin\Release\net6.0\Dto.pdb
+D:\Studying App\Bll\obj\Release\net6.0\Bll.csproj.AssemblyReference.cache
+D:\Studying App\Bll\obj\Release\net6.0\Bll.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studying App\Bll\obj\Release\net6.0\Bll.AssemblyInfoInputs.cache
+D:\Studying App\Bll\obj\Release\net6.0\Bll.AssemblyInfo.cs
+D:\Studying App\Bll\obj\Release\net6.0\Bll.csproj.CoreCompileInputs.cache
+D:\Studying App\Bll\obj\Release\net6.0\Bll.csproj.CopyComplete
+D:\Studying App\Bll\obj\Release\net6.0\Bll.dll
+D:\Studying App\Bll\obj\Release\net6.0\refint\Bll.dll
+D:\Studying App\Bll\obj\Release\net6.0\Bll.pdb
+D:\Studying App\Bll\obj\Release\net6.0\ref\Bll.dll

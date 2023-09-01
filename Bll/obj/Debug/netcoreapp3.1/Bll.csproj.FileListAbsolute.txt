@@ -1,0 +1,5 @@
+D:\Studying App\Bll\obj\Debug\netcoreapp3.1\Bll.csproj.AssemblyReference.cache
+D:\Studying App\Bll\obj\Debug\netcoreapp3.1\Bll.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studying App\Bll\obj\Debug\netcoreapp3.1\Bll.AssemblyInfoInputs.cache
+D:\Studying App\Bll\obj\Debug\netcoreapp3.1\Bll.AssemblyInfo.cs
+D:\Studying App\Bll\obj\Debug\netcoreapp3.1\Bll.csproj.CoreCompileInputs.cache
